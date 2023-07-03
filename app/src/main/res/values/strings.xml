@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">debto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">602287148508-1258ha0cgjnrtdahieg2buu520u1jh1p.apps.googleusercontent.com</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+</resources>

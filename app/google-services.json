@@ -1,0 +1,39 @@
+  {
+  "project_info": {
+    "project_number": "602287148508",
+    "project_id": "debto-2be5c",
+    "storage_bucket": "debto-2be5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602287148508:android:6061369e3fba8b4b40d319",
+        "android_client_info": {
+          "package_name": "com.example.debto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602287148508-jpko8diejspgqcg9jaci6h44nhjcso0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHczkMk3s5d3bCKHyeQEeqwZB_Vu3P_BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602287148508-jpko8diejspgqcg9jaci6h44nhjcso0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
